@@ -28,8 +28,45 @@ Grading
 
 _All students start the course with 1 point._
 
-| ACTIVITIES | POINTS |
-| --- | --- |
-| In-class participation | 25 points |
-| Analyses (3) | 24 points |
-| Final Paper | 50 points
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class participation
+{{< tdclose >}}
+{{< tdopen >}}
+25 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Analyses (3)
+{{< tdclose >}}
+{{< tdopen >}}
+24 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Paper
+{{< tdclose >}}
+{{< tdopen >}}
+50 points
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
